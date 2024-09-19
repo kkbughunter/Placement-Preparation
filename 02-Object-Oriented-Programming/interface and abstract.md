@@ -1,5 +1,4 @@
-Sure! Let's go through examples using both the `interface` and `abstract` keywords to illustrate their usage and differences.
-
+## interface VS abstract
 ### **Using `interface` Keyword**
 
 An `interface` in Java defines a contract that other classes can implement. It can contain method signatures (without implementation) and constants. Classes that implement an interface must provide implementations for all its methods.

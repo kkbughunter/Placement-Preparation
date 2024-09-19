@@ -1,3 +1,5 @@
+## Object type to other class example.
+
 ### **Example**
 
 Let's create two classes: `B` and `A`. The `A` class will contain an instance of the `B` class as a member variable.
