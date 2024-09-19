@@ -101,7 +101,7 @@
      ```
 
 #### 6. **Encapsulation**
-   - **Definition:** Wrapping up of data and dunctions into a single unit is known as Encapsulation.
+   - **Definition:** Wrapping up of data and functions into a single unit is known as Encapsulation.
         - restricts access to certain data by using access modifiers (private, public).
    - **Example:** Use private members and expose them through getters and setters.
    - **Code Example (Java):**
