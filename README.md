@@ -41,6 +41,7 @@
 ### 4. **Database Management System (DBMS)**
    - **Normalization:** 1NF, 2NF, 3NF, BCNF.
    - **ACID Properties:** Atomicity, Consistency, Isolation, Durability.
+   - **Codd Rules:** set of rules signifies the characteristics and requirements of a RDBMS.
    - **Indexes:** B-Tree, B+ Tree, Hash Indexing.
    - **SQL Queries:** Joins, subqueries, group by, aggregate functions, stored procedures, triggers.
    - **Transactions:** Commit, rollback, savepoints, transaction isolation levels.
